@@ -42,14 +42,14 @@ Algorithm based on the
 Dependencies and Installation
 ---- 
 TensorFlow with Anaconda:
-```
-`conda install -c conda-forge tensorflow
-```
-`
+``
+conda install -c conda-forge tensorflow
+``
+
 Scrapy with Anaconda:
-```
-`conda install -c conda-forge scrapy
-```
-`
+``
+conda install -c conda-forge scrapy
+``
+
 License
 ---- 
