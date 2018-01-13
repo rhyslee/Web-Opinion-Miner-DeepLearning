@@ -35,8 +35,11 @@ Mdel by Mikolov et al.
 *TextRank*
 Python Implementation of TextRank by Paco Nathan at https://github.com/ceteri/pytextrank
 Algorithm based on the 
-`Mihalcea 2004 <http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf>`\_
+`Mihalcea 2004 <http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf>`
 
+*Article Extractor*
+
+*Data Parser*
 
 
 Dependencies and Installation
