@@ -4,7 +4,7 @@ Webscraping &amp; Word-to-Vectors: Making sense of democratic opinions
 *Early-Stage Project Subject to Change of Liscence and Contents*
 
 Project Description
--------------------
+---- 
 
 The idea of this project is to use Deep Neural Nets that implement *Word-to-Vector* analysis solutions in order to make sense of text formulated in natural language. For example, public policy reforms like in health care and taxes consist of a large variety of issues and opinions. The idea is to explore how deep neural nets can be used to analyze written text to map out the qualitative opinion landscape of the different issues involved in these issues.
 
@@ -19,7 +19,7 @@ Goals of this Project includes:
 
 
 List of library Sources and Licenses
-------------------------------------
+---- 
 *TensorFlow*
 Licensed under the Apache License, Version 2.0 (the "License") from https://www.tensorflow.org/
 
@@ -35,14 +35,21 @@ Mdel by Mikolov et al.
 *TextRank*
 Python Implementation of TextRank by Paco Nathan at https://github.com/ceteri/pytextrank
 Algorithm based on the 
-`Mihalcea 2004 <http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf>`_
+`Mihalcea 2004 <http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf>`\_
 
 
 
 Dependencies and Installation
------------------------------
-
-
-
+---- 
+TensorFlow with Anaconda:
+```
+`conda install -c conda-forge tensorflow
+```
+`
+Scrapy with Anaconda:
+```
+`conda install -c conda-forge scrapy
+```
+`
 License
--------
+---- 
