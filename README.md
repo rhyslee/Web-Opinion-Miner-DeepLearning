@@ -1,5 +1,5 @@
 # Web-Opinion-Miner-DeepLearning
-![Version](https://img.shields.io/badge/Version-0.01-brightgreen.svg?style=for-the-badge)    ![We Get This](https://img.shields.io/badge/We%20Got%20This-Yes-brightgreen.svg?style=for-the-badge)    ![Tests](https://img.shields.io/badge/Tests-1%2F1-brightgreen.svg?style=for-the-badge)    ![Lines Count](https://img.shields.io/badge/Lines-152444-brightgreen.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-0.02-brightgreen.svg?style=for-the-badge)    ![We Get This](https://img.shields.io/badge/We%20Got%20This-Yes-brightgreen.svg?style=for-the-badge)    ![Tests](https://img.shields.io/badge/Tests-0%2F1-yellow.svg?style=for-the-badge)    ![Lines Count](https://img.shields.io/badge/Lines-103759-brightgreen.svg?style=for-the-badge)
 
 Webscraping &amp; Word-to-Vectors: Making sense of democratic opinions
 
