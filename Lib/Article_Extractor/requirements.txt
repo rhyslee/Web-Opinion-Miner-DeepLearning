@@ -6,7 +6,7 @@ feedfinder2==0.0.4
 feedparser==5.2.1
 idna==2.5
 jieba3k==0.35.1
-lxml==3.8.0
+lxml==4.6.5
 newspaper3k==0.2.2
 nltk==3.2.4
 olefile==0.44
